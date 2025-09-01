@@ -21,6 +21,14 @@ To run this project on your machine you need to install any SQL-supported DBMS t
 Note: If you are using PostgreSQL then restore the <a href="https://github.com/bhardwaj2872/music_album_project/blob/main/music_store_db_backup
 ">backup</a> file of the database and save yourself some time.
 
+## Schema Diagram
+
+![Schema Diagram](## Schema Diagram
+
+![Schema Diagram](https://github.com/avishek09/Music-Store-Analysis/assets/75924699/993e1d5d-0ae0-4034-9e20-202a2916c84c)
+)
+
+
 ## Conclusion
 
 The project was successful in answering the set of questions about the store's business performance. The results of the project can be used by the store to make decisions about its marketing and product offerings.
